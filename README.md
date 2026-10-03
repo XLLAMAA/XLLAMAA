@@ -14,7 +14,7 @@
 - **Desarrollo Full-Stack:** arquitectura de aplicaciones web, APIs REST, bases de datos relacionales y no relacionales.
 - **Programación de sistemas:** desarrollo en lenguajes de bajo nivel, gestión de memoria y optimización del rendimiento.
 - **Metodologías ágiles:** trabajo por sprints en equipos multifuncionales.
-- **Idiomas:** español nativo, inglés con dominio profesional.
+- **Idiomas:** español nativo, inglés (bajo nivel).
 - **Habilidades blandas:** proactividad, autodisciplina y gran capacidad de organización personal.
 
 ## ⚡ Stack técnico | Tech stack
